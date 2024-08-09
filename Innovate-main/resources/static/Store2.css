@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&display=swap');
+
+	
+		
+		
+		h1 {
+			text-align: center;
+					margin-top: 20px;
+					margin-bottom: 20px;
+					font-size: 4em;
+    				color: #00D4FF;
+		}
+		img {
+			width:300px !important;
+		     height:300px !important;
+		  }
+       .container {
+	
+		margin-left: 225px;
+	   }
+
+		
+
+		
+	body {
+		
+		background: url('/SfondoSito.jpg') no-repeat center center/cover;
+	}
+		
+	.card {
+		max-width: 400px;
+		max-height: 700px;
+		margin-left: 10px !important;
+		margin-right: 10px !important;
+		padding-left: -100px !important;
+		opacity: 0.7 !important;
+	}
+
+	img {
+		margin-top: 7px;
+		margin-left: 45px;
+		width: 100%;
+		height:100%;
+		object-fit: cover;
+		opacity: 1 !important;
+		  
+		}
+		.btn {
+		
+		background-color: #E0318C;
+    	padding: 10px 20px;
+    	border-radius: 20px;
+    	color: #FFFFFF;
+    	font-family: Assistant, sans-serif;
+    	border: none;
+    	cursor: pointer;
+    	text-align: center;
+    	
+		}
+		
+        button {
+			background-color: #C02877;
+			
+		}
+		.card-image waves-effect waves-block waves-light {
+		
+		}
+		
+		
+		
